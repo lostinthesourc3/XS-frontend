@@ -1,9 +1,14 @@
-## Personal website/blog
+# Personal website/blog IN PROGRESS
 
-
-
-
-
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
